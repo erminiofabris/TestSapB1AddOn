@@ -1,0 +1,8 @@
+E:\Sviluppo\VisualStudio2013\SapB1\SBOAddonProject1\SBOAddonProject1\bin\Debug\SBOAddonProject1.exe
+E:\Sviluppo\VisualStudio2013\SapB1\SBOAddonProject1\SBOAddonProject1\bin\Debug\SBOAddonProject1.pdb
+E:\Sviluppo\VisualStudio2013\SapB1\SBOAddonProject1\SBOAddonProject1\obj\Debug\SBOAddonProject1.csprojResolveAssemblyReference.cache
+E:\Sviluppo\VisualStudio2013\SapB1\SBOAddonProject1\SBOAddonProject1\obj\Debug\SBOAddonProject1.exe
+E:\Sviluppo\VisualStudio2013\SapB1\SBOAddonProject1\SBOAddonProject1\obj\Debug\SBOAddonProject1.pdb
+E:\Sviluppo\VisualStudio2013\SapB1\SBOAddonProject1\SBOAddonProject1\bin\Debug\SAPBusinessOneSDK.dll
+E:\Sviluppo\VisualStudio2015\SapB1\GestioneRevisioniOrdineAcquisto\SBOAddonProject1\obj\Debug\SBOAddonProject1.exe
+E:\Sviluppo\VisualStudio2015\SapB1\GestioneRevisioniOrdineAcquisto\SBOAddonProject1\obj\Debug\SBOAddonProject1.pdb
